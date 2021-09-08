@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VadimTrofimenkov
 - 👀 I’m interested in Test Automation(Java)
-- 🌱 I’m currently learning Test Automation
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working as Test Automation Engineer
+- 💞️ I’m looking to collaborate on Test Automation Engineer projects
 - 📫 Reach me via https://www.linkedin.com/in/vadim-trofimenkov
